@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="frameworksdays.com" basedir="." default="build">
+<project name="frameworksdays.com111" basedir="." default="build">
     <property name="builddir" value="./build" />
     <property name="sourcedir" value="./src" />
     <property name="logsdir" value="${builddir}/logs" />
